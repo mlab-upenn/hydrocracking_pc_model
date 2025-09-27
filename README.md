@@ -2,6 +2,8 @@
 
 This project implements a **3-lump hydrocracking model** with hydrogen and energy balances, including two PID control loops for **pressure** and **temperature** regulation.
 
+Plots branch contains the plots for CH, CL, CM, T, Tcool, and a visual of the model in Simulink. 
+
 ---
 
 ##  Species Balances
