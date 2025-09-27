@@ -26,7 +26,6 @@ This project implements a **3-lump hydrocracking model** with hydrogen and energ
 - Arrhenius temperature dependence:  
   k_i(T) = k0_i · exp( -Ea_i / (R·T) ),   i = 1, 2  
 
-Where:  
 - CH = heavy paraffins [mol/m³]  
 - CM = isoparaffins / intermediates [mol/m³]  
 - CL = light products [mol/m³]  
@@ -41,7 +40,6 @@ Where:
 
 dnH2/dt = FH2_in – νH·(r1 + r2)·Vliq – Fvent  
 
-Where:  
 - nH2 = moles of hydrogen  
 - FH2_in = inlet hydrogen feed (PID output)  
 - νH = hydrogen consumed per reaction  
@@ -54,7 +52,6 @@ Where:
 
 PH2 = (nH2 · R · T) / Vgas  
 
-Where:  
 - PH2 = hydrogen partial pressure  
 - Vgas = gas headspace volume  
 - R = gas constant  
@@ -66,7 +63,6 @@ Where:
 
 dT/dt = [ –ΔHrxn·(r1 + r2) – (UA/Vliq)·(T – Tcool) ] / (ρ·Cp)  
 
-Where:  
 - ΔHrxn = heat of reaction (negative, exothermic)  
 - ρ·Cp = effective thermal capacitance  
 - U·A = heat transfer coefficient × area  
