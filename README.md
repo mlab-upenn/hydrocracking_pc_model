@@ -75,7 +75,7 @@ dT/dt = [ –ΔHrxn·(r1 + r2) – (UA/Vliq)·(T – Tcool) ] / (ρ·Cp)
 ##  Pressure PID Controller
 
 Error:  
-eP = PH2-Pset  
+eP = Pset-PH2  
 
 Control law:  
 Fvent = Kp_P·eP + Ki_P∫eP dt + Kd_P·d(eP)/dt  
@@ -85,7 +85,7 @@ Fvent = Kp_P·eP + Ki_P∫eP dt + Kd_P·d(eP)/dt
 ##  Temperature PID Controller
 
 Error:  
-eT = Tset – T  
+eT = T-Tset 
 
 Control law:  
 ΔTcool = Kp_T·eT + Ki_T∫eT dt + Kd_T·d(eT)/dt  
