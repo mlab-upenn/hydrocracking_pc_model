@@ -5,6 +5,29 @@ This project implements a **3-lump hydrocracking model** with hydrogen and energ
 Plots branch contains the plots for CH, CL, CM, T, Tcool, and a visual of the model in Simulink. 
 
 ---
+## Plots
+
+![PID Controller Output](updated_plots/ch_cm_cl.png)
+
+*Figure 1 – CH, CM, and CL vs. Time*
+
+![PID Controller Output](updated_plots/nh2_plot.png)
+
+*Figure 2 – nH2 vs. Time*
+
+![PID Controller Output](updated_plots/ph2_plot.png)
+
+*Figure 3 – pH2 vs. Time*
+
+![PID Controller Output](updated_plots/tcool_plot.png)
+
+*Figure 4 – Tcool vs. Time*
+
+![PID Controller Output](updated_plots/temp_plot.png)
+
+*Figure 5 – Temp vs. Time*
+
+---
 
 ##  Species Balances
 
