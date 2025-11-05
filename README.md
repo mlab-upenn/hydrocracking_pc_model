@@ -15,7 +15,7 @@ Plots branch contains the plots for CH, CL, CM, T, Tcool, and a visual of the mo
 
 *Figure 2 – nH2 vs. Time*
 
-![Hydrocracking PID Plot](https://raw.githubusercontent.com/mlab-upenn/hydrocracking_pc_model/updated_plots/ph2_plot.png)
+![Hydrocracking PID Plot](https://raw.githubusercontent.com/mlab-upenn/hydrocracking_pc_model/updated_plots/ph2_plots.png)
 
 *Figure 3 – pH2 vs. Time*
 
