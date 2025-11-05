@@ -7,7 +7,7 @@ Plots branch contains the plots for CH, CL, CM, T, Tcool, and a visual of the mo
 ---
 ## Plots
 
-![Hydrocracking PID Plot](https://raw.githubusercontent.com/mlab-upenn/hydrocracking_pc_model/updated_plots/ch_cm_cl.png)
+![Hydrocracking PID Plot](https://raw.githubusercontent.com/mlab-upenn/hydrocracking_pc_model/updated_plots/ch_cm_cl_plot.png)
 
 *Figure 1 – CH, CM, and CL vs. Time*
 
