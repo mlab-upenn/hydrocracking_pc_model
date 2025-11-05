@@ -11,19 +11,19 @@ Plots branch contains the plots for CH, CL, CM, T, Tcool, and a visual of the mo
 
 *Figure 1 – CH, CM, and CL vs. Time*
 
-![PID Controller Output](updated_plots/nh2_plot.png)
+![Hydrocracking PID Plot](https://raw.githubusercontent.com/mlab-upenn/hydrocracking_pc_model/updated_plots/nh2_plot.png)
 
 *Figure 2 – nH2 vs. Time*
 
-![PID Controller Output](updated_plots/ph2_plot.png)
+![Hydrocracking PID Plot](https://raw.githubusercontent.com/mlab-upenn/hydrocracking_pc_model/updated_plots/ph2_plot.png)
 
 *Figure 3 – pH2 vs. Time*
 
-![PID Controller Output](updated_plots/tcool_plot.png)
+![Hydrocracking PID Plot](https://raw.githubusercontent.com/mlab-upenn/hydrocracking_pc_model/updated_plots/tcool_plot.png)
 
 *Figure 4 – Tcool vs. Time*
 
-![PID Controller Output](updated_plots/temp_plot.png)
+![Hydrocracking PID Plot](https://raw.githubusercontent.com/mlab-upenn/hydrocracking_pc_model/updated_plots/temp_plot.png)
 
 *Figure 5 – Temp vs. Time*
 
